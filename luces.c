@@ -1,6 +1,6 @@
 /*
 creado por Manuel Enrique Garcia Neve
-fue echa para imprimir en terminal una corrida (0001,0010,0100,1000) de manera ciclica de
+fue echa para imprimir en terminal una corrida (0001,0010,0011,0100,0101,0110,0111,1000,1001,1010,1011,10100,1101,1110,1111) de manera ciclica de
 */
 #include <stdio.h>
 void camnbio(int a,int b,int c,int d);//es una funcion que perimite hacer los cambios en a,b,c,d 

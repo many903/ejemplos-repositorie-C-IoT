@@ -11,7 +11,7 @@ return resultado;
 int main()
 {
 int valido=1;
-char op;
+char op;// es todo aquyo que no sea numero +-*/
 float resultado,x,y, por;
 scanf("%f %c %f",&x,&op,&y);
 switch (op) {
